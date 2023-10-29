@@ -1,0 +1,1 @@
+this is day 3 task for restcountries API URL and all the country flags ,name ,region, subregion, population in the console.
