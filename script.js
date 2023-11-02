@@ -8,7 +8,7 @@ request.onload = function(){
     console.log(result);
     
     for(var i = 0;i<result.length;i++){
-        console.log(result[i].fifa,result[i].area);
+        console.log(result[i].flags.png,result[i].area);
     }
 } 
 //2.use the rest countries API URL https://restcountries,com/v3.1/all and display all the country name,region,sub-regionand population in the console.
